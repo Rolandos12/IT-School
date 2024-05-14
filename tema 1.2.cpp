@@ -8,7 +8,7 @@ int main()
     int an, x;
     cout << "an=";
     cin >> an;
-    an = an % 2;
+    an = an % 4;
 
     if (an != 0)
 
