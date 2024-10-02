@@ -1,0 +1,4 @@
+Mini scenariu de joc RPG.
+Personajul nostru este capturat si fortat sa lupte in arene de gladiatori. Dupa un timp un vulcan erupe langa locul in care este tinut prizonier si reuseste sa scape. De aici aventura incepe.
+Ca implementari avem urmatoarele: Sistem de HP si heal, sistem de atac asupra inamicilor cat si ei pe noi intr-un mod random intre anumite valori definite, avem si un meniu unde putem alege anumite actiuni ce au consecinte in desfasurarea jocului, avem implementat si o arma de timp range(ARC) cu damage mai mare.
+Codul se poate copia si rula fara probleme.
