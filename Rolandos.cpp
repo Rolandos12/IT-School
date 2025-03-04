@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello Roland\n";
+    int nr,x ;
+    if (x= 12);
+    int nr= x % 10;
+    cout << "ultima cifra =" <<cin nr;
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
